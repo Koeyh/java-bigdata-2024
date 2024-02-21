@@ -12,7 +12,7 @@ print("나이는 : ", age) # 문자열 "" ,'' 사용 가능
 print("세율 : " ,taxRate) 
 print("지수값 : ",highFloats)
 
-# 틀수 숫자형
+# 특수 숫자형
 binVal = 0b11111111 #255
 octVal = 0o11 # 9, 8진수 표기
 hexVal = 0xFF # 65, 16진수 표기
