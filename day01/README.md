@@ -3,12 +3,12 @@
 
 ## 1일차
 - 파이썬 개발 환경 설정
-    - [깃헙] ( https://github.com/) 가입
-    - [깃] (https://git-scm.com/download/win) 설치
+    - [깃헙]( https://github.com/) 가입
+    - [깃](https://git-scm.com/download/win) 설치
     - [깃헙 데스크탑](https://desktop.github.com/) 설치
     - [파이썬](https://python.org) 설치
-    - [Visual Studio Code] (https://code.visualstudio.com/download) 설치
-    - [나눔 고딕 코딩 글자체] (https://github.com/naver/nanumfont) 설치
+    - [Visual Studio Code](https://code.visualstudio.com/download) 설치
+    - [나눔 고딕 코딩 글자체](https://github.com/naver/nanumfont) 설치
 
 - 파이썬 학습
     - 파이썬 개요
