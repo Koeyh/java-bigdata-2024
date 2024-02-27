@@ -29,7 +29,7 @@
 # print(res.read())
 
 ## urllib3 외부 웹페이지 분석 모듈
-import requests
+#import requests
 
 res = requests.get('https://www.naver.com')
 print(res.status_code)
