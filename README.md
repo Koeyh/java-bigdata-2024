@@ -194,14 +194,16 @@
                 else:
                     clearConsole() 
 
-        if __name__ == '__main__': # 메인엔트리
-            print('프로그램 시작')
-            run() # 메인함수 실행
-
-        print('프로그램 종료')
         ```
 
         ![주소록앱](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata01.gif)
+
+        - Windows App 만들기()
+
+        ![QtApp](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata02.gif)
+        
+
+        
 
 ## 6일차
 
