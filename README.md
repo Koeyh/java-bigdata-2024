@@ -200,7 +200,7 @@
 
         - Windows App 만들기()
 
-        ![QtApp](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata02.gif)
+        ![QtApp](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata02.png)
         
 
         
