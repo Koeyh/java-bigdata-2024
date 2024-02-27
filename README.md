@@ -63,7 +63,14 @@
 
         
 ## 5일차
+- 파이썬 학습
+    - 파이썬 응용
+        - OS내 디렉토리 검색
+        - 아스키 및 유니코드
+        - 주소록 앱 만들기
 
+        ![주소록앱](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata01.gif)
+        
 ## 6일차
 
 ## 7일차
