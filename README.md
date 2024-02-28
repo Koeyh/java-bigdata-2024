@@ -205,7 +205,17 @@
 
         
 
-## 6일차
+## 6일차 ('24. 2. 28.)
+- 파이썬 학습
+    - PyQt5 학습 이어하기
+        - QWidget 자식 클래스 종류 학습
+        
+        ![QLabel](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata03.png)
+
+        - Naver 뉴스 API 검색 앱
+
+        ![QLabel](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata04.png)
+
 
 ## 7일차
 
