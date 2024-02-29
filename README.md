@@ -224,11 +224,13 @@
     - json 학습 
     - PyQt5
         - 스레드 개념, 학습
-
+        - 스레드 활용
         ![스레드](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata05.png)
 
+        - QR코드 제작 APP
         ![QR](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata06.png)
 
+        - 구글 번역 APP
         ![구글번역](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata07.png)
 
         
