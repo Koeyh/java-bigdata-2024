@@ -218,8 +218,23 @@
 
 
 ## 7일차
+- 파이썬 학습
+    - PyQt5 계속
+        - Naver 뉴스 API 검색 앱 마무리
+    - json 학습 
+    - PyQt5
+        - 스레드 개념, 학습
 
+        ![스레드] (https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata05.png)
+
+        ![QR] (https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata06.png)
+
+        ![구글번역] (https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata07.png)
+
+        
 ## 8일차
+- 파이썬 응용
+    - 파이썬 자동화
 
 ## 9일차
 

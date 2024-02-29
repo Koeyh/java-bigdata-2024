@@ -62,19 +62,22 @@ class qtApp(QWidget):
 
         n = 0
         for post in result:
-            self.tblSearchResult.setItem(n, 0, QTableWidgetItem(post['title']))
+            # html 태그, 특수문자 삭제를 해야함 (<b>손흥민<\b>, &lt;[<], &gt;[>], &quot;[""], &nbsp;[])
+
+            title = str(post['title'].replace('<b>', '').replace('</b>', '').replace('&quot;', '"'))
+            self.tblSearchResult.setItem(n, 0, QTableWidgetItem(title))
             self.tblSearchResult.setItem(n, 1, QTableWidgetItem(post['link']))
+            # 현재 날짜 : Thu, 29 Feb 2024 09:00:00 +09:00 ==> 2024-02-29로 변경
             tempDate = str(post['pubDate']).split(' ')
             year = tempDate[3]
-            month = time.strptime(tempDate[2], '%b').tm_mon
-            month = f'{month:02d}'
+            month = time.strptime(tempDate[2], '%b').tm_mon # Feb, Mar 같은 영어 단축명을 숫자로 변경해줌
+            month = f'{month:02d}' # 월을 두 자리로 만들어 줌 ex) 01월, 02월 ...
             day = tempDate[1]
             date = f'{year}-{month}-{day}'
-            self.tblSearchResult.setItem(n, 2, QTableWidgetItem())
-
+            self.tblSearchResult.setItem(n, 2, QTableWidgetItem(date))
             n += 1
 
-        self.tblSearchResult.setColumnWidth(0, 465)
+        self.tblSearchResult.setColumnWidth(0, 430) # QTable에 가로 스크롤을 없애기 위한 너비조절
         self.tblSearchResult.setColumnWidth(1, 200)
         self.tblSearchResult.setEditTriggers(QAbstractItemView.NoEditTriggers) # 컬럼 더블클릭 금지
 
