@@ -225,11 +225,11 @@
     - PyQt5
         - 스레드 개념, 학습
 
-        ![스레드] (https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata05.png)
+        ![스레드](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata05.png)
 
-        ![QR] (https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata06.png)
+        ![QR](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata06.png)
 
-        ![구글번역] (https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata07.png)
+        ![구글번역](https://raw.githubusercontent.com/Koeyh/java-bigdata-2024/main/images/bigdata07.png)
 
         
 ## 8일차
